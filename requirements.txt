@@ -3,3 +3,7 @@ psycopg2-binary
 sqlalchemy
 pyyaml
 flask-sqlalchemy
+pyopenssl
+flask_httpauth
+pyjwt
+werkzeug
